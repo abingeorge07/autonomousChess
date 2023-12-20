@@ -16,7 +16,6 @@ Goal was to create a 2.5 degree of freedom cartesian system that can play Chess 
 - Aayush
 - Kyle
 - Abin
-
 - <a href="https://aamrit.wixsite.com/portfolio">Aayush Amrit</a>
 - <a href="https://sites.google.com/bu.edu/adambahlous-boldi/home">Adam Bahlous-Boldi</a>
 - <a href="http://kylefieleke.com/">Kyle Fieleke</a>
